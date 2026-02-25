@@ -1,0 +1,30 @@
+================================================================================
+INSTITUTIONAL TREND ANALYSIS REPORT
+Security: TATA MOTORS PASS VEH LTD
+Current Price: ₹369.50
+================================================================================
+
+1. MARKET STRUCTURE (Price Action)
+--------------------------------------------------------------------------------
+   Pattern: Sideways / Range-bound
+   Detail: Range: 337.70 - 375.00
+
+2. 200-DAY MOVING AVERAGE (Long-Term Trend)
+--------------------------------------------------------------------------------
+   Current Price vs MA(200): Above by 0.56%
+   MA(200) Value: ₹367.45
+   MA(200) Slope: Downward
+   Institutional Positioning: Neutral - Price above declining MA (caution)
+
+3. GOLDEN CROSS / DEATH CROSS
+--------------------------------------------------------------------------------
+   ✗ No Recent Golden Cross
+
+   ✗ No Recent Death Cross
+
+4. TREND STRENGTH CONCLUSION
+--------------------------------------------------------------------------------
+   Classification: ⚪ SIDEWAYS / RANGE-BOUND
+   Composite Score: 0/12
+
+================================================================================

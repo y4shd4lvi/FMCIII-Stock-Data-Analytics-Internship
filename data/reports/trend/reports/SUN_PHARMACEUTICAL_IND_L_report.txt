@@ -1,0 +1,34 @@
+================================================================================
+INSTITUTIONAL TREND ANALYSIS REPORT
+Security: SUN PHARMACEUTICAL IND L
+Current Price: ₹1695.10
+================================================================================
+
+1. MARKET STRUCTURE (Price Action)
+--------------------------------------------------------------------------------
+   Pattern: Downtrend (LH/LL)
+   Detail: Lower High: 1806.60, Lower Low: 1600.00
+
+2. 200-DAY MOVING AVERAGE (Long-Term Trend)
+--------------------------------------------------------------------------------
+   Current Price vs MA(200): Above by 0.07%
+   MA(200) Value: ₹1693.85
+   MA(200) Slope: Downward
+   Institutional Positioning: Neutral - Price above declining MA (caution)
+
+3. GOLDEN CROSS / DEATH CROSS
+--------------------------------------------------------------------------------
+   ✓ GOLDEN CROSS Detected
+     Date: 2025-11-25 (73 days ago)
+     Price at Cross: ₹1776.80
+     Current Price: ₹1695.10
+     Signal Confirmed: NO (price below cross level)
+
+   ✗ No Recent Death Cross
+
+4. TREND STRENGTH CONCLUSION
+--------------------------------------------------------------------------------
+   Classification: 🟠 WEAK DOWNTREND
+   Composite Score: -3/12
+
+================================================================================

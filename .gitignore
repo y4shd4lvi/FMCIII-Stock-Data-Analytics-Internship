@@ -1,0 +1,5 @@
+data/raw/
+*csv
+*.xlsx
+*.zip
+.env

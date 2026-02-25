@@ -1,0 +1,34 @@
+================================================================================
+INSTITUTIONAL TREND ANALYSIS REPORT
+Security: BHARAT ELECTRONICS LTD
+Current Price: ₹429.65
+================================================================================
+
+1. MARKET STRUCTURE (Price Action)
+--------------------------------------------------------------------------------
+   Pattern: Uptrend (HH/HL)
+   Detail: Higher High: 424.55, Higher Low: 397.00
+
+2. 200-DAY MOVING AVERAGE (Long-Term Trend)
+--------------------------------------------------------------------------------
+   Current Price vs MA(200): Above by 8.97%
+   MA(200) Value: ₹394.28
+   MA(200) Slope: Upward
+   Institutional Positioning: Bullish - Strong institutional support
+
+3. GOLDEN CROSS / DEATH CROSS
+--------------------------------------------------------------------------------
+   ✓ GOLDEN CROSS Detected
+     Date: 2025-04-09 (303 days ago)
+     Price at Cross: ₹280.15
+     Current Price: ₹429.65
+     Signal Confirmed: YES
+
+   ✗ No Recent Death Cross
+
+4. TREND STRENGTH CONCLUSION
+--------------------------------------------------------------------------------
+   Classification: 🟢 STRONG UPTREND
+   Composite Score: 9/12
+
+================================================================================

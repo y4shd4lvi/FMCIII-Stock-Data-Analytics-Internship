@@ -1,0 +1,43 @@
+================================================================================
+NIFTY 50 TREND ANALYSIS SUMMARY
+================================================================================
+
+Total Stocks Analyzed: 49
+Failed: 1
+
+================================================================================
+TREND DISTRIBUTION
+================================================================================
+🟢 STRONG UPTREND: 12 stocks
+🟡 WEAK/DEVELOPING UPTREND: 15 stocks
+⚪ SIDEWAYS / RANGE-BOUND: 10 stocks
+🟠 WEAK DOWNTREND: 11 stocks
+🔴 STRONG DOWNTREND: 1 stocks
+
+================================================================================
+TOP 10 STRONGEST UPTRENDS
+================================================================================
+COAL INDIA LTD: 🟢 STRONG UPTREND (Score: 12)
+OIL AND NATURAL GAS CORP.: 🟢 STRONG UPTREND (Score: 10)
+BAJAJ AUTO LIMITED: 🟢 STRONG UPTREND (Score: 9)
+JSW STEEL LIMITED: 🟢 STRONG UPTREND (Score: 9)
+BHARAT ELECTRONICS LTD: 🟢 STRONG UPTREND (Score: 9)
+TECH MAHINDRA LIMITED: 🟢 STRONG UPTREND (Score: 9)
+TITAN COMPANY LIMITED: 🟢 STRONG UPTREND (Score: 9)
+TATA STEEL LIMITED: 🟢 STRONG UPTREND (Score: 9)
+HCL TECHNOLOGIES LTD: 🟢 STRONG UPTREND (Score: 7)
+MAHINDRA & MAHINDRA LTD: 🟢 STRONG UPTREND (Score: 7)
+
+================================================================================
+TOP 10 WEAKEST/DOWNTRENDS
+================================================================================
+BAJAJ FINSERV LTD.: 🟠 WEAK DOWNTREND (Score: -3)
+ADANI ENTERPRISES LIMITED: 🟠 WEAK DOWNTREND (Score: -4)
+TRENT LTD: 🟠 WEAK DOWNTREND (Score: -4)
+NESTLE INDIA LIMITED: 🟠 WEAK DOWNTREND (Score: -4)
+BAJAJ FINANCE LIMITED: 🟠 WEAK DOWNTREND (Score: -6)
+ITC LTD: 🟠 WEAK DOWNTREND (Score: -6)
+MAX HEALTHCARE INS LTD: 🟠 WEAK DOWNTREND (Score: -6)
+HDFC BANK LTD: 🟠 WEAK DOWNTREND (Score: -6)
+INTERGLOBE AVIATION LTD: 🟠 WEAK DOWNTREND (Score: -6)
+TATA CONSULTANCY SERV LT: 🔴 STRONG DOWNTREND (Score: -9)

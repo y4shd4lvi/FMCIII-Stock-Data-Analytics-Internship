@@ -1,0 +1,34 @@
+================================================================================
+INSTITUTIONAL TREND ANALYSIS REPORT
+Security: ICICI BANK LTD.
+Current Price: ₹1406.10
+================================================================================
+
+1. MARKET STRUCTURE (Price Action)
+--------------------------------------------------------------------------------
+   Pattern: Sideways / Range-bound
+   Detail: Range: 1317.40 - 1500.00
+
+2. 200-DAY MOVING AVERAGE (Long-Term Trend)
+--------------------------------------------------------------------------------
+   Current Price vs MA(200): Above by 0.04%
+   MA(200) Value: ₹1405.59
+   MA(200) Slope: Upward
+   Institutional Positioning: Bullish - Strong institutional support
+
+3. GOLDEN CROSS / DEATH CROSS
+--------------------------------------------------------------------------------
+   ✓ GOLDEN CROSS Detected
+     Date: 2025-11-14 (84 days ago)
+     Price at Cross: ₹1373.00
+     Current Price: ₹1406.10
+     Signal Confirmed: YES
+
+   ✗ No Recent Death Cross
+
+4. TREND STRENGTH CONCLUSION
+--------------------------------------------------------------------------------
+   Classification: 🟡 WEAK/DEVELOPING UPTREND
+   Composite Score: 4/12
+
+================================================================================

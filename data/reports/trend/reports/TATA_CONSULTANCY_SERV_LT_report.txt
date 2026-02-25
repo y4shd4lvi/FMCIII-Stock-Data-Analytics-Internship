@@ -1,0 +1,30 @@
+================================================================================
+INSTITUTIONAL TREND ANALYSIS REPORT
+Security: TATA CONSULTANCY SERV LT
+Current Price: ₹2941.60
+================================================================================
+
+1. MARKET STRUCTURE (Price Action)
+--------------------------------------------------------------------------------
+   Pattern: Downtrend (LH/LL)
+   Detail: Lower High: 3300.60, Lower Low: 3082.00
+
+2. 200-DAY MOVING AVERAGE (Long-Term Trend)
+--------------------------------------------------------------------------------
+   Current Price vs MA(200): Below by 8.46%
+   MA(200) Value: ₹3213.30
+   MA(200) Slope: Downward
+   Institutional Positioning: Bearish - Weak institutional support
+
+3. GOLDEN CROSS / DEATH CROSS
+--------------------------------------------------------------------------------
+   ✗ No Recent Golden Cross
+
+   ✗ No Recent Death Cross
+
+4. TREND STRENGTH CONCLUSION
+--------------------------------------------------------------------------------
+   Classification: 🔴 STRONG DOWNTREND
+   Composite Score: -9/12
+
+================================================================================

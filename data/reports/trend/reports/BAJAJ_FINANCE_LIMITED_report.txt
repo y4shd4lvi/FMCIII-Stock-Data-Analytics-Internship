@@ -1,0 +1,34 @@
+================================================================================
+INSTITUTIONAL TREND ANALYSIS REPORT
+Security: BAJAJ FINANCE LIMITED
+Current Price: ₹981.70
+================================================================================
+
+1. MARKET STRUCTURE (Price Action)
+--------------------------------------------------------------------------------
+   Pattern: Sideways / Range-bound
+   Detail: Range: 849.00 - 1102.50
+
+2. 200-DAY MOVING AVERAGE (Long-Term Trend)
+--------------------------------------------------------------------------------
+   Current Price vs MA(200): Below by 62.98%
+   MA(200) Value: ₹2651.89
+   MA(200) Slope: Downward
+   Institutional Positioning: Bearish - Weak institutional support
+
+3. GOLDEN CROSS / DEATH CROSS
+--------------------------------------------------------------------------------
+   ✓ GOLDEN CROSS Detected
+     Date: 2025-06-20 (231 days ago)
+     Price at Cross: ₹905.00
+     Current Price: ₹981.70
+     Signal Confirmed: YES
+
+   ✗ No Recent Death Cross
+
+4. TREND STRENGTH CONCLUSION
+--------------------------------------------------------------------------------
+   Classification: 🟠 WEAK DOWNTREND
+   Composite Score: -6/12
+
+================================================================================

@@ -1,0 +1,34 @@
+================================================================================
+INSTITUTIONAL TREND ANALYSIS REPORT
+Security: BHARTI AIRTEL LIMITED
+Current Price: ₹2038.40
+================================================================================
+
+1. MARKET STRUCTURE (Price Action)
+--------------------------------------------------------------------------------
+   Pattern: Sideways / Range-bound
+   Detail: Range: 1660.00 - 2174.50
+
+2. 200-DAY MOVING AVERAGE (Long-Term Trend)
+--------------------------------------------------------------------------------
+   Current Price vs MA(200): Above by 3.59%
+   MA(200) Value: ₹1967.74
+   MA(200) Slope: Upward
+   Institutional Positioning: Bullish - Strong institutional support
+
+3. GOLDEN CROSS / DEATH CROSS
+--------------------------------------------------------------------------------
+   ✓ GOLDEN CROSS Detected
+     Date: 2025-04-07 (305 days ago)
+     Price at Cross: ₹1686.65
+     Current Price: ₹2038.40
+     Signal Confirmed: YES
+
+   ✗ No Recent Death Cross
+
+4. TREND STRENGTH CONCLUSION
+--------------------------------------------------------------------------------
+   Classification: 🟡 WEAK/DEVELOPING UPTREND
+   Composite Score: 4/12
+
+================================================================================

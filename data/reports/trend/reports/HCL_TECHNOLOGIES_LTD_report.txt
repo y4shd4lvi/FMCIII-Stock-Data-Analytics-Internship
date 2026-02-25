@@ -1,0 +1,34 @@
+================================================================================
+INSTITUTIONAL TREND ANALYSIS REPORT
+Security: HCL TECHNOLOGIES LTD
+Current Price: ₹1593.70
+================================================================================
+
+1. MARKET STRUCTURE (Price Action)
+--------------------------------------------------------------------------------
+   Pattern: Sideways / Range-bound
+   Detail: Range: 1302.75 - 1752.50
+
+2. 200-DAY MOVING AVERAGE (Long-Term Trend)
+--------------------------------------------------------------------------------
+   Current Price vs MA(200): Above by 0.86%
+   MA(200) Value: ₹1580.14
+   MA(200) Slope: Upward
+   Institutional Positioning: Bullish - Strong institutional support
+
+3. GOLDEN CROSS / DEATH CROSS
+--------------------------------------------------------------------------------
+   ✓ GOLDEN CROSS Detected
+     Date: 2025-12-11 (57 days ago)
+     Price at Cross: ₹1672.40
+     Current Price: ₹1593.70
+     Signal Confirmed: NO (price below cross level)
+
+   ✗ No Recent Death Cross
+
+4. TREND STRENGTH CONCLUSION
+--------------------------------------------------------------------------------
+   Classification: 🟢 STRONG UPTREND
+   Composite Score: 7/12
+
+================================================================================
