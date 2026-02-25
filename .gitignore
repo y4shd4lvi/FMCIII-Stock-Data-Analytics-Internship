@@ -3,3 +3,5 @@ data/raw/
 *.xlsx
 *.zip
 .env
+__pycache__/
+*.pyc
