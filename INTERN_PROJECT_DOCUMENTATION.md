@@ -1,7 +1,7 @@
 # NSE Analytica — NIFTY 50 Stock Analysis System
 ### Internship Project Documentation
 
-> **Author:** Intern  
+> **Author:** Yash Dalvi  
 > **Mentor Presentation Draft**  
 > **Tech Stack:** Python · Pandas · Matplotlib · Streamlit  
 > **Domain:** Quantitative Finance · Stock Market Analysis  
