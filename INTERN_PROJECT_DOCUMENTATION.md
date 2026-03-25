@@ -2,7 +2,7 @@
 ### Internship Project Documentation
 
 > **Author:** Yash Dalvi  
-> **Mentor Presentation Draft**  
+> **Mentor:** Mr Ghawane sir  
 > **Tech Stack:** Python · Pandas · Matplotlib · Streamlit  
 > **Domain:** Quantitative Finance · Stock Market Analysis  
 
